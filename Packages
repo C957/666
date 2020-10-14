@@ -58,7 +58,7 @@ Maintainer: 北京帮你玩科技有限公司 <support@touchsprite.com>
 Depends: mobilesubstrate, firmware (>= 13.0), firmware (<= 13.9)
 Replaces: com.ts.touchsprite, com.darwindev.touchsprite, repo.so.touchsprite, touchsprite.178, com.touchsprite.ios
 Architecture: iphoneos-arm
-Description: 触动精灵专业版v3.1.5,iOS13特供,支持传感器抛竿.安装方法:卸载原有触动,等设备注销后,手动关机再开机(必要操作),然后再安装该版本触动精灵.
+Description: 触动精灵专业版v3.1.5,iOS13特供,不支持传感器抛竿.
 Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
 Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
 Icon: file:///Applications/TouchSprite.app/AppIcon60x60@3x.png
