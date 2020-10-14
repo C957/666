@@ -22,7 +22,7 @@ Description: 触动精灵v3.0.2,iOS11特供,支持传感器抛竿.安装方法:�
 Maintainer: 北京帮你玩科技有限公司 <support@touchsprite.com>
 Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
 Section: 触动精灵iOS11特供
-Depends: mobilesubstrate, firmware (>= 10.0)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<= 11.9)
 Icon: file:///Applications/TouchSprite.app/AppIcon60x60@3x.png
 Filename: debs/302.deb
 Size: 10188002
@@ -41,7 +41,7 @@ Architecture: iphoneos-arm
 Description: 触动精灵专业版v3.0.3,iOS12特供,支持传感器抛竿.安装方法:卸载原有触动,等设备注销后,手动关机再开机(必要操作),然后再安装该版本触动精灵.
 Author: 北京帮你玩科技有限公司 <support@touchsprite.com>
 Sponsor: 北京帮你玩科技有限公司 <http://www.touchsprite.com>
-Icon: file:///Applications/TouchSprite.app/icon.png
+Icon: file:///Applications/TouchSprite.app/AppIcon60x60@3x.png
 Filename: debs/303.deb
 Size: 11511670
 MD5sum: 4c072dea78a1448e0cfa9a59f536067b
