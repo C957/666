@@ -1,0 +1,8 @@
+Origin: 菊花钓鱼
+Label: 菊花钓鱼
+Suite: stable
+Version: 1.0
+Codename: 菊花
+Architectures: iphoneos-arm
+Components: main
+Description: 菊花钓鱼
